@@ -1,0 +1,7 @@
+{
+    "description" : "{ a^i#b^j | 2*i = j and i, j > 0 }",
+    "rule": {
+        "S": ["aAbb"],
+        "A": ["aAbb", "#"]
+        }
+}

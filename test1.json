@@ -1,0 +1,7 @@
+{
+    "description" : "{ a^n#b^n | n > 0 }",
+    "rule": {
+        "S": ["aTb"],
+        "T": ["aTb", "#"]
+        }
+}
